@@ -1,4 +1,4 @@
-<h3> I a um a Business Administration student who is interested in the financial market especially in quantitave finance and credit risk modeling.</h3>
+<h2> I a um a Business Administration student who is interested in the financial market especially in quantitave finance and credit risk modeling.</h2>
 
 - 🌱 I’m currently learning **Machine Learning techniques and how to apply them in the financial market. Also, I am learning more about Structured Query Language and 
 database management systems. **
