@@ -13,10 +13,10 @@ database management systems.
   
   
 <h3> Studies and class notes: </h3>
-- 1. [PANDAS](https://github.com/edufrantzk/Pandas)
+1. [PANDAS](https://github.com/edufrantzk/Pandas)
 
 
--
+
 <details>
   <summary><b> 🛠Languages an Tools: <b/></summary>
   <br/>
