@@ -1,6 +1,8 @@
 <h3> I a um a Business Administration student who is interested in the financial market especially in quantitave finance and credit risk modeling.</h3>
 
-- 🌱 I’m currently learning **Machine Learning techniques and how to apply them in the financial market.**
+- 🌱 I’m currently learning **Machine Learning techniques and how to apply them in the financial market. Also, I am learning more about Structured Query Language and 
+database management systems. **
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +27,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--><h3 align="center">
