@@ -12,7 +12,7 @@ database management systems.
   
   
 <h3> Studies and class notes: </h3>
-1. (https://github.com/edufrantzk/Pandas)
+1. (PANDAS) (https://github.com/edufrantzk/Pandas)
 
 
 <h3 align="left">Languages and Tools:</h3>
