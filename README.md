@@ -7,13 +7,14 @@ database management systems.
 - 💡 I am currently looking for jobs opportunities as a Data Scientist and also projects that I can collaborate.
 
 
-    <h3> Personal Projects: </h3>
+<h3> Personal Projects: </h3>
 1.
   
   
   
 <h3> Studies and class notes: </h3>
 1. (PANDAS) (https://github.com/edufrantzk/Pandas)
+
 
 
 <details>
