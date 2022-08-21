@@ -16,7 +16,7 @@ database management systems.
 - 1. [PANDAS](https://github.com/edufrantzk/Pandas)
 
 
-
+-
 <details>
   <summary><b> 🛠Languages an Tools: <b/></summary>
   <br/>
