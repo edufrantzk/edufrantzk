@@ -13,8 +13,9 @@ database management systems.
   
   
 <h3> Studies and class notes: </h3>
-- 1. [PANDAS] (https://github.com/edufrantzk/Pandas)
-
+<!--BLOG-POST-LIST:START -->
+- 1. [PANDAS](https://github.com/edufrantzk/Pandas)
+<!--BLOG-POST-LIST:END -->
 
 
 <details>
