@@ -7,7 +7,7 @@ database management systems.
 - 💡 I am currently looking for jobs opportunities as a Data Scientist and also projects that I can collaborate.
 
 <h3> Personal Projects: </h3>
--
+1.
   
   
 <h3 align="left">Languages and Tools:</h3>
