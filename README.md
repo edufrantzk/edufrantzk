@@ -4,7 +4,7 @@ I a um a Business Administration student who is interested in the financial mark
 
 - 🌱 I’m currently learning Machine Learning techniques and how to apply them in the financial market. Also, I am learning more about Structured Query Language and 
 database management systems. 
-- 💡 I am currently looking for jobs opportunities as a Data Scientist Jr and also in projects that I can collaborate.
+- 💡 I am currently looking for jobs opportunities as a Data Scientist Jr and also projects that I can collaborate.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
