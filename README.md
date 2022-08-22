@@ -8,7 +8,6 @@ database management systems.
 
 
 <h3> Personal Projects: </h3>
-
 1.
   
   
@@ -16,6 +15,10 @@ database management systems.
 <h3> Studies and class notes: </h3>
 
 1.[Pandas Repository](https://github.com/edufrantzk/Pandas)
+
+2.[Object Oriented Python](https://github.com/edufrantzk/Object_Oriented_Python)
+
+3.[Python Exercises](https://github.com/edufrantzk/Python_Exercises)
 
 
 <h3 align="left">Languages and Tools:</h3>
