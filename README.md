@@ -8,7 +8,7 @@ I a um a Business Administration student who is interested in the financial mark
 
 <h3> Personal Projects: </h3>
 
-1.[Linear Regression - Beta and VaR calculation](https://github.com/edufrantzk/Linear_Regression_beta_and_VaR_Calculation)
+1.[Linear Regression - Beta and VaR calculation of stocks from IBOVESPA](https://github.com/edufrantzk/Linear_Regression_beta_and_VaR_Calculation)
   
   
   
