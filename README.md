@@ -2,13 +2,13 @@
 
 I a um a Business Administration student who is interested in the financial market and data science especially in quantitave finance and credit risk modeling.
 
-- 🌱 I’m currently learning Machine Learning techniques and how to apply them in the financial market. Also, I am learning more about Structured Query Language and 
-database management systems. 
+- 🌱 I’m currently learning Machine Learning techniques and how to apply them in the financial market. Also, I am learning more about database management systems. 
 - 💡 I am currently looking for jobs opportunities as a Data Scientist and projects that I can collaborate.
 
 
 <h3> Personal Projects: </h3>
-1.
+
+1.[Linear Regression - Beta and VaR calculation](https://github.com/edufrantzk/Linear_Regression_beta_and_VaR_Calculation)
   
   
   
@@ -27,6 +27,6 @@ database management systems.
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eduardo-augusto-frantz-347038200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eduardo-augusto-frantz-347038200/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/eduardoaugusto0608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/eduardoaugusto0608" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eduardo-augusto-frantz-347038200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eduardo-augusto-frantz-347038200/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/eduardoaugusto0608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/eduardoaugusto0608" height="30" width="40" /></a>
 </p>
