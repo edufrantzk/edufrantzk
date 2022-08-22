@@ -9,12 +9,13 @@ database management systems.
 
 <h3> Personal Projects: </h3>
 
-1.[Pandas Repository](https://github.com/edufrantzk/Pandas)
+1.
   
   
   
 <h3> Studies and class notes: </h3>
-1.
+
+1.[Pandas Repository](https://github.com/edufrantzk/Pandas)
 
 
 <h3 align="left">Languages and Tools:</h3>
