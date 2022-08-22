@@ -3,7 +3,7 @@
 I a um a Business Administration student who is interested in the financial market and data science especially in quantitave finance and credit risk modeling.
 
 - 🌱 I’m currently learning Machine Learning techniques and how to apply them in the financial market. Also, I am learning more about database management systems. 
-- 💡 I am currently looking for jobs opportunities as a Data Scientist and projects in the field that I can collaborate.
+- 💡 I am currently looking for jobs opportunities as a Data Scientist or projects in the field that I can collaborate.
 
 
 <h3> Personal Projects: </h3>
