@@ -8,7 +8,8 @@ database management systems.
 
 
 <h3> Personal Projects: </h3>
-1. ![Reference to the file] https://github.com/edufrantzk/Pandas
+
+1.[Pandas Repository](https://github.com/edufrantzk/Pandas)
   
   
   
