@@ -16,9 +16,7 @@ I a um a Business Administration student who is interested in the financial mark
 
 1.[Pandas Repository](https://github.com/edufrantzk/Pandas)
 
-2.[Object Oriented Python](https://github.com/edufrantzk/Object_Oriented_Python)
 
-3.[Python Exercises](https://github.com/edufrantzk/Python_Exercises)
 
 
 <h3 align="left">Languages and Tools:</h3>
