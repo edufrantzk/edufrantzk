@@ -14,7 +14,9 @@ I a um a Business Administration student who is interested in the financial mark
   
 <h3> Studies and class notes: </h3>
 
-1.[Pandas Repository](https://github.com/edufrantzk/Pandas)
+1.[Data pre-processing Normalization and Standarization](https://github.com/edufrantzk/normalization_and_standarization)
+
+2.[Pandas Repository](https://github.com/edufrantzk/Pandas)
 
 
 
