@@ -6,9 +6,11 @@ I a um a Business Administration student who is interested in the financial mark
 - 💡 I am currently looking for a job opportunitie as a Data Scientist.
 
 
-<h3> Personal Projects: </h3>
+<h3> Portfolio: </h3>
 
 1.[Linear Regression - Beta and VaR calculation of stocks from IBOVESPA](https://github.com/edufrantzk/Linear_Regression_beta_and_VaR_Calculation)
+
+2.[Exploratory Data Analysis of a company's HR](https://github.com/edufrantzk/EDA_HR_Data)
   
   
   
