@@ -8,9 +8,11 @@ I a um a Business Administration student who is interested in the financial mark
 
 <h3> Portfolio: </h3>
 
-1.[Linear Regression - Beta and VaR calculation of stocks from IBOVESPA](https://github.com/edufrantzk/Linear_Regression_beta_and_VaR_Calculation)
+1. [Logistic Regression - Predicting credit default](https://github.com/edufrantzk/german_credit_risk)
 
-2.[Exploratory Data Analysis of a company's HR](https://github.com/edufrantzk/EDA_HR_Data)
+2.[Linear Regression - Beta and VaR calculation of stocks from IBOVESPA](https://github.com/edufrantzk/Linear_Regression_beta_and_VaR_Calculation)
+
+3.[Exploratory Data Analysis of a company's HR](https://github.com/edufrantzk/EDA_HR_Data)
   
   
   
