@@ -2,18 +2,13 @@
 
 I a um a Business Administration student who is interested in the financial market and data science especially in quantitave finance and credit risk modeling.
 
-- 🌱 I’m currently learning Machine Learning techniques and how to apply them in the financial market. Also, I am learning more about database management systems. I am expanding my studies and projects to increase my portfolio.
-- 💡 I am currently looking for a job opportunitie as a Data Scientist.
+- 🌱 
 
 
 <h3> Portfolio: </h3>
 
 
-1.[Logistic Regression - Predicting credit default](https://github.com/edufrantzk/german_credit_risk)
-
-2.[Linear Regression - Beta and VaR calculation of stocks from IBOVESPA](https://github.com/edufrantzk/Linear_Regression_beta_and_VaR_Calculation)
-
-3.[Exploratory Data Analysis of a company's HR](https://github.com/edufrantzk/EDA_HR_Data)
+.[Exploratory Data Analysis of a company's HR](https://github.com/edufrantzk/EDA_HR_Data)
   
   
   
@@ -23,7 +18,6 @@ I a um a Business Administration student who is interested in the financial mark
 
 2.[Data pre-processing Normalization and Standarization](https://github.com/edufrantzk/normalization_and_standarization)
 
-3.[Pandas Repository](https://github.com/edufrantzk/Pandas)
 
 
 
