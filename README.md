@@ -1,8 +1,5 @@
 <h3> Hi there 👋 </h3>
 
-I a um a Business Administration student who is interested in the financial market and data science especially in quantitave finance and credit risk modeling.
-
-- 🌱 
 
 
 <h3> Portfolio: </h3>
