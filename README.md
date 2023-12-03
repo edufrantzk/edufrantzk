@@ -7,13 +7,6 @@
 
 .[Exploratory Data Analysis of a company's HR](https://github.com/edufrantzk/EDA_HR_Data)
   
-  
-  
-<h3> Studies and class notes: </h3>
-
-1.[Statistics for Data Science and Machine Learning](https://github.com/edufrantzk/statistics_for_data_science_and_machine_learning)
-
-2.[Data pre-processing Normalization and Standarization](https://github.com/edufrantzk/normalization_and_standarization)
 
 
 
