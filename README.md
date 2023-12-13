@@ -5,7 +5,7 @@
 <h3> Portfolio: </h3>
 
 
-.[Exploratory Data Analysis of a company's HR](https://github.com/edufrantzk/EDA_HR_Data)
+.[Análise Exploratória de dados de HR.](https://github.com/edufrantzk/EDA_HR_Data)
   
 
 
